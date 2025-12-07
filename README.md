@@ -1,14 +1,14 @@
 
 
 
- 🔊 Python Voice-Activated IVRS System
+ # 🔊 Python Voice-Activated IVRS System
 
 A lightweight offline Interactive Voice Response System (IVRS) powered by Python.
 Control your computer hands-free — open applications, browse the internet, play music, hear jokes, and more using simple voice commands.
 
 ---
 
-✨ Key Highlights
+## ✨ Key Highlights
 
 * 🎙 **Speech Recognition** powered by Google API
 * 🗣 **Real-time Text-to-Speech Engine** (pyttsx3)
@@ -18,7 +18,7 @@ Control your computer hands-free — open applications, browse the internet, pla
 
 ---
 
- 🛠 Installation
+ ## 🛠 Installation
 
 Make sure you have Python installed.
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ---
 
- ▶️ Usage
+## ▶️ Usage
 
 Run the main script:
 
@@ -56,14 +56,3 @@ SpeechRecognition
 pyaudio
 pyjokes
 colorama
-```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-
-
-
